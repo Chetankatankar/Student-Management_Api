@@ -1,0 +1,12 @@
+STEPS TO ADD FIREBASE DATABASE
+
+1.create a project on firebase
+2.generate the private key from project 
+then that .json file we have to add in our project
+
+3.projectfolder/ create file firebase.py
+this file is used Initialize a firebase in Django
+
+4.do changes in views.py
+
+bs in 4 steps se apn firebase db me data stored kr sakte hai
